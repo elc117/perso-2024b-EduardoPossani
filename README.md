@@ -9,6 +9,7 @@ Este projeto implementa um jogo de adivinhação de números em Haskell, uma lin
 O programa usa um algoritmo de busca binária para adivinhar o número pensado pelo usuário, com perguntas do tipo "maior", "menor" ou "igual". A lógica de adivinhação ilustra o uso de recursão e expressões condicionais em Haskell, mostrando como a linguagem facilita a implementação de IA com código simples e conciso.
 
 # Funcionamento
+![Opera Instantâneo_2024-10-28_101559_broken-spooky-cauldron-pjpjxj5rg7w52r5g9 github dev](https://github.com/user-attachments/assets/972d9952-9a99-4e2f-a794-bf8906126312)
 1. O usuário pensa em um número entre 1 e 100.
 2. O programa tenta adivinhar o número com base nas respostas do usuário.
 3. Com cada resposta, o intervalo é reduzido até que o número seja encontrado.
